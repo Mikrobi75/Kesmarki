@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.604,=C:\projects\Tokyo\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.771,=C:\projects\Tokyo\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\projects\Tokyo\Unit1.pas=C:\projects\KesMarki\KesMarkiProject\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,=C:\projects\Tokyo\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\projects\Tokyo\Unit1.dfm=C:\projects\KesMarki\KesMarkiProject\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,C:\projects\Tokyo\Project1.dproj=C:\projects\KesMarki\KesMarkiProject\KerMarki.dproj</Transaction>
+    <Transaction>2025.02.26 12:39:03.080,=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 12:39:59.047,C:\projects\KesMarki\KesMarkiProject\uImport.dfm=C:\projects\KesMarki\KesMarkiProject\Unit1.dfm</Transaction>
+    <Transaction>2025.02.26 12:39:59.047,C:\projects\KesMarki\KesMarkiProject\uImport.pas=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 12:53:16.284,=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 12:53:30.446,C:\projects\KesMarki\KesMarkiProject\uDM.pas=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 12:53:30.446,C:\projects\KesMarki\KesMarkiProject\uDM.dfm=C:\projects\KesMarki\KesMarkiProject\Unit1.dfm</Transaction>
+    <Transaction>2025.02.26 13:24:58.158,=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 13:26:30.012,C:\projects\KesMarki\KesMarkiProject\uAncestor.pas=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 13:26:30.012,C:\projects\KesMarki\KesMarkiProject\uAncestor.dfm=C:\projects\KesMarki\KesMarkiProject\Unit1.dfm</Transaction>
+    <Transaction>2025.02.26 13:27:59.505,=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 13:28:33.460,C:\projects\KesMarki\KesMarkiProject\uAdatKarb.dfm=C:\projects\KesMarki\KesMarkiProject\Unit1.dfm</Transaction>
+    <Transaction>2025.02.26 13:28:33.460,C:\projects\KesMarki\KesMarkiProject\uAdatKarb.pas=C:\projects\KesMarki\KesMarkiProject\Unit1.pas</Transaction>
+    <Transaction>2025.02.26 19:01:27.498,C:\projects\KesMarki\KesMarkiProject\KesMarki.dproj=C:\projects\KesMarki\KesMarkiProject\KerMarki.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
